@@ -1,4 +1,0 @@
-Crawling all links from one url and saving them inside of a file.
-On Linux - python3 crawl_links_by_url.py
-On Windows - You have to navigate yourself to the file which contents python3 and from there type python download_images_by_url.py
-Enjoy :)
